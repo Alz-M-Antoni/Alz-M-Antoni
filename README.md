@@ -1,4 +1,3 @@
-- ⚡ Dato curioso: La pirámide más grande. México es el hogar de la pirámide más grande del mundo. ...⚡
 <html lang="es"> <!--esto SIRVE PARA EL IDIOMA Ñ :D--><!--esto es un comentario :D-->
 <head>
     <meta charset="UTF-8">
